@@ -32,9 +32,3 @@ Both values are exposed as variables, so no code/blueprint restructuring is need
 ## Tech
 Unreal Engine 5 · Blueprints · Sphere Trace · Vector Math (Dot Product)
 
-## Demo
-[Add a short gameplay clip or GIF here]
-
-## Notes
-- Detection logic is intentionally decoupled from animation so you can reskin this for any character/enemy type.
-- Consider adding a line-of-sight trace alongside the sphere trace if you want to block assassinations through walls.
